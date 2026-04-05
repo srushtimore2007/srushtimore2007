@@ -2,33 +2,36 @@
 Web Developer and Manual Tester
 -------------------------
 
-Hi, I’m Srushti More
+🎓 **Education:** Currently pursuing a Diploma in Information Technology at Government Polytechnic, Mumbai.
 
-🎓 Currently pursuing a Diploma in Information Technology at Government Polytechnic, Mumbai
+🚀 **Focus:** Passionate about **Full-Stack Development** and **Software Quality Assurance**. I love turning complex ideas into impactful, bug-free projects.
 
-💻 Skilled in Html, Css, JavaScript (ES6+), React
+### 🛠️ Technical Skills
 
-⚡ Frontend: React, Tailwind CSS
+* **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, MySQL
+* **Quality Assurance:** Manual Testing, Writing Test Cases, Functional & Regression Testing
+* **Tools:** Git, GitHub, VS Code, Postman
 
-⚙️ Backend: Node.js, Express
+### 🌱 Currently Exploring
+* Mastering **TypeScript** within the React ecosystem.
+* Deepening my expertise in the **MERN Stack**.
+* Implementing structured testing workflows in development projects.
 
-🗄️ Database: MongoDB, MySQL
+### 👨‍💻Projects available at [https://github.com/srushtimore2007?tab=repositories]
 
-🛠️ Tools: GitHub, VS Code
 
-🚀 Interested in Full-Stack Development
-
-🌱 Currently learning React with TypeScript & MERN stack
-
-📌 Love turning ideas into impactful projects and exploring emerging tech
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [moresrushti200707@gmail.com)
-* 🧠  I'm currently learning React using Typescript
-
+  
+### Languages and Tools
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
+
+### 🤝 Let's Connect
+* 🌍 Based in **India**
+* ✉️ Contact me at **[moresrushti200707@gmail.com](mailto:moresrushti200707@gmail.com)**
+* 💼 Professional Profile: [LinkedIn](https://www.linkedin.com/in/srushti-more-967110369)
 
 ### Socials
 
